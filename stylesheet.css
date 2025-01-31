@@ -1,7 +1,7 @@
 @charset "UTF-8";
    
  body{
-    background-image: url("../images/06.jpg");
+    background-image: url("06.jpg");
     background-size: contain;
     background-attachment: fixed;
  }
@@ -17,7 +17,7 @@
  }
 
 header{
-    background-image: url("../images/07.jpg");
+    background-image: url("07.jpg");
     background-size: 100%;
     background-position: center;
     width: 864px;
